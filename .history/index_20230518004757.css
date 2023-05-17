@@ -135,11 +135,5 @@ table {
   border: 1px solid grey;
   max-width: 100%;
 }
-
 /*Common Style*/
-html {
-  font-size: 62.5%;
-} 
-body{
-  font-size: 1.6rem;
-}
+html
