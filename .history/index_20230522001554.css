@@ -157,7 +157,6 @@ section {
   width: 90%;
   margin: 0 auto;
 }
-
 /*Header Section*/
 nav {
   padding: 2% 0;
@@ -189,14 +188,13 @@ nav a {
 }
 
 /*Title Section*/
-.intro {
-  position: relative;
+.intro{
+  position: relative ;
 }
-
 .text,
 .image {
   display: inline-block;
-}
+} 
 
 .image {
   width: 25%;
@@ -216,8 +214,6 @@ nav a {
 }
 
 /*Main Section*/
-.story {
-  background-color: #DDB9A3;
-  color: white;
-  padding: 4%;
+.story{
+  background-color
 }
