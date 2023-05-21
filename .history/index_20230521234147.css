@@ -167,7 +167,5 @@ nav a {
   padding: 1% 0;
   width: 10%;
   text-align: center;
-  border-radius: 10px;
-  color: white;
-  text-decoration: none;
+  border border-radius: 10px;
 }
