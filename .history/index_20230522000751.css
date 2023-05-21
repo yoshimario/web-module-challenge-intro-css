@@ -188,7 +188,7 @@ nav a {
 }
 
 .story{
-  position:  ;
+  position: relative;
 }
 .text,
 .image {
@@ -209,5 +209,4 @@ nav a {
   margin-left: 8%;
   line-height: 2.5;
   position: absolute;
-  top: 140px;
 }

@@ -187,9 +187,7 @@ nav a {
   margin-right: 10%;
 }
 
-.story{
-  position:  ;
-}
+.story
 .text,
 .image {
   display: inline-block;
@@ -209,5 +207,4 @@ nav a {
   margin-left: 8%;
   line-height: 2.5;
   position: absolute;
-  top: 140px;
 }
