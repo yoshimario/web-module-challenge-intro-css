@@ -145,8 +145,9 @@ body {
   font-size: 1.6rem;
   line-height: 1.5;
   font-family: 'Roboto Mono', monospace;
+  
 }
 
 h1 {
-  font-family: 'Chelsea Market', cursive;
+  font-family: 'Roboto Mono', monospace;
 }
