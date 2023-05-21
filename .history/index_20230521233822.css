@@ -157,11 +157,9 @@ section {
   width: 90%;
   margin: 0 auto;
 }
-
-nav {
-  padding: 2 % 0;
+nav{
+  padding: 2 % 0; 
 }
-
-nav a {
-  display: inline-block;
+links{
+  display: inlin;
 }
