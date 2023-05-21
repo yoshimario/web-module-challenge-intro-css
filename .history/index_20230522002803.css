@@ -226,15 +226,9 @@ nav a {
   width: 35%;
   margin: 8% auto;
 }
-
-.bold {
-  font-weight: bold;
+.bold{
+   font-weight: bold;
 }
-
-.bg-image {
-  background-image: url(assets/footer_img.jpg);
-  height: 40vh;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: top center;
+.bg-image{
+  
 }
