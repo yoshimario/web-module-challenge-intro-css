@@ -136,7 +136,7 @@ table {
   max-width: 100%;
 }
 
-/*Common Section*/
+/*Common Style*/
 html {
   font-size: 62.5%;
 }
@@ -157,7 +157,7 @@ section {
   width: 90%;
   margin: 0 auto;
 }
-/*Header Section*/
+/*Header Styles*/
 nav {
   padding: 2% 0;
 }
@@ -213,4 +213,4 @@ nav a {
   top: 140px;
 }
 
-/*Main Section*/
+/*Main Styles*/
