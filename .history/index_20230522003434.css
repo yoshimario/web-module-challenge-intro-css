@@ -132,6 +132,7 @@ table {
 
 * {
   box-sizing: border-box;
+  border: 1px solid grey;
   max-width: 100%;
 }
 
@@ -224,7 +225,6 @@ nav a {
 .inform div {
   width: 35%;
   margin: 8% auto;
-  text-align: center;
 }
 
 .bold {
@@ -240,6 +240,6 @@ nav a {
   width: 100%;
 }
 
-.footer {
-  background-color: #F9E7DC;
+.footer{
+  background-color: ;
 }
