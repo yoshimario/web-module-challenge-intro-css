@@ -139,14 +139,12 @@ table {
 /*Common Style*/
 html {
   font-size: 62.5%;
-}
-
-body {
+} 
+body{
   font-size: 1.6rem;
   line-height: 1.5;
-  font-family: 'Chelsea Market', cursive;
+  font-family: 'Chelsea Market', cursive; 
 }
-
-h1 {
-  font-family: 'Roboto Mono', monospace;
+h1{
+  
 }
