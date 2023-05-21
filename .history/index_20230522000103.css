@@ -195,11 +195,9 @@ nav a {
 .image {
   width: 25%;
 }
-
-.rounded {
-  border-radius: 48%;
+.rounded{
+  border-radius: 50;
 }
-
 .text {
   width: 50%;
 }

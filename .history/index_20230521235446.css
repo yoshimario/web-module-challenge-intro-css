@@ -187,19 +187,6 @@ nav a {
   margin-right: 10%;
 }
 
-.text,
-.image {
-  display: inline-block;
-}
-
-.image {
-  width: 25%;
-}
-
-.rounded {
-  border-radius: 48%;
-}
-
-.text {
-  width: 50%;
+.text .image{
+  
 }
