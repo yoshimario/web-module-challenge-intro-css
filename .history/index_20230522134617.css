@@ -136,7 +136,7 @@ table {
   text-align: center;
 }
 
-/* General styles */
+/*Common Section*/
 html {
   font-size: 62.5%;
   /* 1rem = 10px with this setting */
@@ -145,8 +145,7 @@ html {
 body {
   font-size: 1.6rem;
   line-height: 1.5;
-  font-family: 'Roboto Mono', monospace;
-  ;
+  font-family: 'Roboto Mono', monospace;;
 }
 
 h1 {
@@ -163,7 +162,6 @@ section {
 nav {
   padding: 2% 0;
 }
-
 nav a {
   display: inline-block;
   padding: 1% 0;
@@ -184,21 +182,15 @@ nav a {
   margin: 0 24%;
 }
 
-.get {
+.involved {
   background-color: #FFCD69;
   margin-right: 10%;
 }
 
-/* Title section */
-.cta {
-  position: relative;
-}
-
-.text,
-.image {
+/*Title Section*/
+.text, .image {
   display: inline-block;
 }
-
 .image {
   width: 30%;
 }
@@ -213,17 +205,16 @@ nav a {
   text-align: center;
   line-height: 3;
   position: right;
-  top: 150px;
+  top: 150px; 
 }
-
-/* Main section */
+/*Main Section*/
 .story {
   background-color: #DDB9A3;
   color: white;
-  padding: 2%;
+  padding: 4%;
 }
 
-.info div {
+.inform div {
   width: 30%;
   margin: 5% auto;
 }
@@ -232,8 +223,8 @@ nav a {
   font-weight: bold;
 }
 
-.bgimg {
-  background-image: url('assets/footer_img.jpg');
+.bg-image {
+  background-image: url(assets/footer_img.jpg);
   height: 50vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -241,6 +232,6 @@ nav a {
   width: 100%;
 }
 
-footer {
+.footer {
   background-color: #F9E7DC;
 }

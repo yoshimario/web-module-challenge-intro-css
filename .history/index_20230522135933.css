@@ -174,17 +174,17 @@ nav a {
   text-decoration: none;
 }
 
-.plan {
+.orange {
   background-color: #FF764E;
   margin-left: 10%;
 }
 
-.learn {
+.blue {
   background-color: #5ED3EB;
   margin: 0 24%;
 }
 
-.get {
+.yellow {
   background-color: #FFCD69;
   margin-right: 10%;
 }
@@ -216,7 +216,7 @@ nav a {
   top: 150px;
 }
 
-/* Main section */
+/* story */
 .story {
   background-color: #DDB9A3;
   color: white;

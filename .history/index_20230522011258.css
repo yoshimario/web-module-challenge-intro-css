@@ -136,22 +136,21 @@ table {
   text-align: center;
 }
 
-/* General styles */
+/* Common Section */
 html {
   font-size: 62.5%;
-  /* 1rem = 10px with this setting */
 }
 
 body {
   font-size: 1.6rem;
   line-height: 1.5;
   font-family: 'Roboto Mono', monospace;
-  ;
 }
 
 h1 {
   font-family: 'Chelsea Market', cursive;
-  font-size: 5rem;
+  font-size: 8rem;
+  margin: 0 auto;
 }
 
 section {
@@ -160,17 +159,17 @@ section {
   margin: 0 auto;
 }
 
+/* Header Section */
 nav {
   padding: 2% 0;
 }
 
 nav a {
   display: inline-block;
-  padding: 1% 0;
-  width: 10%;
+  padding: 1% 2%;
   text-align: center;
   border-radius: 10px;
-  color: #fff;
+  color: white;
   text-decoration: none;
 }
 
@@ -181,60 +180,63 @@ nav a {
 
 .learn {
   background-color: #5ED3EB;
-  margin: 0 24%;
+  margin: 0 4%;
 }
 
-.get {
+.involved {
   background-color: #FFCD69;
   margin-right: 10%;
 }
 
-/* Title section */
-.cta {
+/* Title Section */
+.intro {
   position: relative;
 }
 
 .text,
 .image {
   display: inline-block;
+  vertical-align: middle;
 }
 
 .image {
-  width: 30%;
+  width: 25%;
 }
 
-.round {
-  border-radius: 50%;
+.rounded {
+  border-radius: 48%;
 }
 
 .text {
-  width: 55%;
-  margin-left: 5%;
+  width: 50%;
   text-align: center;
-  line-height: 3;
-  position: right;
-  top: 150px;
+  margin-left: 8%;
+  line-height: 1.5;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
-/* Main section */
+/* Main Section */
 .story {
   background-color: #DDB9A3;
   color: white;
-  padding: 2%;
+  padding: 4%;
 }
 
-.info div {
-  width: 30%;
-  margin: 5% auto;
+.inform div {
+  width: 35%;
+  margin: 0 auto;
 }
 
 .bold {
   font-weight: bold;
 }
 
-.bgimg {
-  background-image: url('assets/footer_img.jpg');
-  height: 50vh;
+.bg-image {
+  background-image: url(assets/footer_img.jpg);
+  height: 35vh;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;

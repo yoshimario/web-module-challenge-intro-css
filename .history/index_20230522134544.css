@@ -136,7 +136,7 @@ table {
   text-align: center;
 }
 
-/* General styles */
+/*Common Section*/
 html {
   font-size: 62.5%;
   /* 1rem = 10px with this setting */
@@ -184,13 +184,13 @@ nav a {
   margin: 0 24%;
 }
 
-.get {
+.involved {
   background-color: #FFCD69;
   margin-right: 10%;
 }
 
-/* Title section */
-.cta {
+/*Title Section*/
+.intro {
   position: relative;
 }
 
@@ -203,7 +203,7 @@ nav a {
   width: 30%;
 }
 
-.round {
+.rounded {
   border-radius: 50%;
 }
 
@@ -216,14 +216,23 @@ nav a {
   top: 150px;
 }
 
-/* Main section */
+.text {
+  width: 55%;
+  margin-left: 5%;
+  text-align: center;
+  line-height: 3;
+  position: right;
+  top: 150px;
+}
+
+/*Main Section*/
 .story {
   background-color: #DDB9A3;
   color: white;
-  padding: 2%;
+  padding: 4%;
 }
 
-.info div {
+.inform div {
   width: 30%;
   margin: 5% auto;
 }
@@ -232,8 +241,8 @@ nav a {
   font-weight: bold;
 }
 
-.bgimg {
-  background-image: url('assets/footer_img.jpg');
+.bg-image {
+  background-image: url(assets/footer_img.jpg);
   height: 50vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -241,6 +250,6 @@ nav a {
   width: 100%;
 }
 
-footer {
+.footer {
   background-color: #F9E7DC;
 }
