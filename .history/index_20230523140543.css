@@ -214,9 +214,8 @@ nav a {
   vertical-align: middle;
   width: 65%;
   text-align: left;
-  line-height: 3;
+  line-height: 1.5;
 }
-
 /* Main section */
 .story {
   background-color: #DDB9A3;

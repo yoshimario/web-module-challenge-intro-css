@@ -200,8 +200,6 @@ nav a {
 }
 
 .image {
-  display: inline-block;
-  vertical-align: middle;
   width: 30%;
 }
 
@@ -210,13 +208,11 @@ nav a {
 }
 
 .text {
-  display: inline-block;
-  vertical-align: middle;
-  width: 65%;
-  text-align: left;
+  width: 55%;
+  margin: 0 auto;
+  text-align: center;
   line-height: 3;
 }
-
 /* Main section */
 .story {
   background-color: #DDB9A3;

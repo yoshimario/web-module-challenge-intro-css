@@ -215,7 +215,16 @@ nav a {
   width: 65%;
   text-align: left;
   line-height: 3;
+}.text {
+  width: 55%;
+  margin-left: 5%;
+  margin-right: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 3;
+  top: 150px;
 }
+
 
 /* Main section */
 .story {

@@ -210,13 +210,14 @@ nav a {
 }
 
 .text {
-  display: inline-block;
-  vertical-align: middle;
-  width: 65%;
-  text-align: left;
+  width: 55%;
+  margin: 150px auto 0;
+  position: absolute;
+  left: 0;
+  right: 0;
+  text-align: center;
   line-height: 3;
 }
-
 /* Main section */
 .story {
   background-color: #DDB9A3;
